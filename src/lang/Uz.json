@@ -1,0 +1,20 @@
+{
+  "users": "Foydalanuvchilar",
+  "photos": "Rasmlar",
+  "posts": "Postlar",
+  "comments": "Izohlar",
+  "search": "Qidirish..",
+  "post_list": "Postlar ro'yxati",
+  "user_list": "Foydalanuvchilar ro'yxati",
+  "comment_list": "Kommentlar ro'yxati",
+  "photo_list": "Fotosuratlar ro'yxati",
+  "id": "ID",
+  "email": "Elektron pochta",
+  "body": "Matn",
+  "website": "Veb-sayt",
+  "phone": "Telefon",
+  "company": "Kompaniya",
+  "address": "Manzil",
+  "comment_body_1": "Bu namunaviy izoh matni.",
+  "comment_body_2": "Izoh matnining yana bir misoli."
+}
