@@ -13,7 +13,6 @@ function Navbar() {
 
     return (
         <div className="Navbar flex items-center justify-between p-4 bg-gray-800">
-            <img className='w-14 ml-4' src="./src/assets/Api.webp" alt="" />
             <input
                 placeholder={t('search')}
                 type="text"
