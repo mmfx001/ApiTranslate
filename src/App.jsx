@@ -18,7 +18,7 @@ function App() {
                 <div className='flex'>
                     <Saidbar className='fixed top-0' />
                     <Routes>
-                        <Route path="/users" element={<Users />} />
+                        <Route path="/" element={<Users />} />
                         <Route path="/photos" element={<Photos />} />
                         <Route path="/post" element={<Post />} />
                         <Route path="/comments" element={<Comments />} />
